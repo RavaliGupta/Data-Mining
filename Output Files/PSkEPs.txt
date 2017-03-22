@@ -1,0 +1,57 @@
+#Objective Function:1.348849323794425
+Closed Pattern1:56 66 61 71 100 95 80  #GrowthRate:  1.229931668685416  Support for class0: 1.229931668685416  Support for class1:  0.8130532983745568
+Closed Pattern1:66 61 71 100 95 80  #GrowthRate:  1.3002840537264582  Support for class0: 1.3002840537264582  Support for class1:  0.7690627268204359
+Closed Pattern1:51 66 61 86  #GrowthRate:  1.2923742265877909  Support for class0: 1.2923742265877909  Support for class1:  0.7737696863858574
+Closed Pattern1:56 51 66 61 86  #GrowthRate:  1.2858302064169285  Support for class0: 1.2858302064169285  Support for class1:  0.7777076592302044
+Closed Pattern1:56 66 61 86  #GrowthRate:  1.2803263524911646  Support for class0: 1.2803263524911646  Support for class1:  0.7810508610201404
+Closed Pattern1:66 61 86  #GrowthRate:  1.2756329231633634  Support for class0: 1.2756329231633634  Support for class1:  0.7839245772366565
+Closed Pattern1:51 61 86  #GrowthRate:  1.2715831946220115  Support for class0: 1.2715831946220115  Support for class1:  0.7864212143014819
+Closed Pattern1:56 51 61 86  #GrowthRate:  1.2680532403688307  Support for class0: 1.2680532403688307  Support for class1:  0.78861042120687
+Closed Pattern1:56 61 86  #GrowthRate:  1.2649490269689292  Support for class0: 1.2649490269689292  Support for class1:  0.790545688940684
+Closed Pattern1:61 86  #GrowthRate:  1.2621979133198014  Support for class0: 1.2621979133198014  Support for class1:  0.7922687792834524
+Closed Pattern1:51 66 86  #GrowthRate:  1.2597428946529525  Support for class0: 1.2597428946529525  Support for class1:  0.7938127726257116
+Closed Pattern1:56 51 66 86  #GrowthRate:  1.257538610137634  Support for class0: 1.257538610137634  Support for class1:  0.7952042123705075
+Closed Pattern1:56 66 86  #GrowthRate:  1.255548514299052  Support for class0: 1.255548514299052  Support for class1:  0.7964646436289087
+Closed Pattern1:66 86  #GrowthRate:  1.2537428347856274  Support for class0: 1.2537428347856274  Support for class1:  0.7976117368367541
+Closed Pattern1:51 86  #GrowthRate:  1.2520970727386698  Support for class0: 1.2520970727386698  Support for class1:  0.7986601213057177
+Closed Pattern1:56 51 86  #GrowthRate:  1.2505908847046077  Support for class0: 1.2505908847046077  Support for class1:  0.7996220124666926
+Closed Pattern1:56 86  #GrowthRate:  1.249207237444109  Support for class0: 1.249207237444109  Support for class1:  0.8005076900178791
+Closed Pattern1:86  #GrowthRate:  1.2479317609672083  Support for class0: 1.2479317609672083  Support for class1:  0.8013258667484758
+Closed Pattern1:51 66 61 71 100 95  #GrowthRate:  1.2730803331703084  Support for class0: 1.2730803331703084  Support for class1:  0.7854963853771381
+Closed Pattern1:56 51 66 61 71 100 95  #GrowthRate:  1.2972491497303122  Support for class0: 1.2972491497303122  Support for class1:  0.7708619429104209
+Closed Pattern1:56 66 61 71 100 95  #GrowthRate:  1.3204943716740711  Support for class0: 1.3204943716740711  Support for class1:  0.757292133500152
+Closed Pattern1:66 61 71 100 95  #GrowthRate:  1.3428679481949581  Support for class0: 1.3428679481949581  Support for class1:  0.7446748590166065
+Closed Pattern1:51 66 61 100 95  #GrowthRate:  1.3644180042229082  Support for class0: 1.3644180042229082  Support for class1:  0.7329132252029618
+Closed Pattern1:56 51 66 61 100 95  #GrowthRate:  1.3851891859711343  Support for class0: 1.3851891859711343  Support for class1:  0.7219230485826496
+Closed Pattern1:56 66 61 100 95  #GrowthRate:  1.4052229696810632  Support for class0: 1.4052229696810632  Support for class1:  0.7116308383622317
+Closed Pattern1:66 61 100 95  #GrowthRate:  1.4245579380584967  Support for class0: 1.4245579380584967  Support for class1:  0.7019721509978606
+Closed Pattern1:51 66 100 95  #GrowthRate:  1.443230028277839  Support for class0: 1.443230028277839  Support for class1:  0.6928902395367068
+Closed Pattern1:56 51 66 100 95  #GrowthRate:  1.4612727549085487  Support for class0: 1.4612727549085487  Support for class1:  0.6843349379100573
+Closed Pattern1:56 66 100 95  #GrowthRate:  1.478717410673245  Support for class0: 1.478717410673245  Support for class1:  0.6762617338391317
+Closed Pattern1:66 100 95  #GrowthRate:  1.495593247567417  Support for class0: 1.495593247567417  Support for class1:  0.6686309941733827
+Closed Pattern1:51 66 61 71 12  #GrowthRate:  1.4830897278047486  Support for class0: 1.4830897278047486  Support for class1:  0.6742680373629099
+Closed Pattern1:56 51 66 61 71 12  #GrowthRate:  1.471398047874862  Support for class0: 1.471398047874862  Support for class1:  0.6796257487525543
+Closed Pattern1:56 66 61 71 12  #GrowthRate:  1.4604416261525504  Support for class0: 1.4604416261525504  Support for class1:  0.68472438890587
+Closed Pattern1:66 61 71 12  #GrowthRate:  1.45015321940311  Support for class0: 1.45015321940311  Support for class1:  0.6895823052488239
+Closed Pattern1:51 66 61 12  #GrowthRate:  1.4404735414830654  Support for class0: 1.4404735414830654  Support for class1:  0.6942161526760374
+Closed Pattern1:56 51 66 61 12  #GrowthRate:  1.4313501201759407  Support for class0: 1.4313501201759407  Support for class1:  0.6986410843191047
+Closed Pattern1:56 66 61 12  #GrowthRate:  1.4227363456041615  Support for class0: 1.4227363456041615  Support for class1:  0.7028709170815147
+Closed Pattern1:66 61 12  #GrowthRate:  1.4145906737788707  Support for class0: 1.4145906737788707  Support for class1:  0.7069182757501484
+Closed Pattern1:51 61 12  #GrowthRate:  1.4068759565606324  Support for class0: 1.4068759565606324  Support for class1:  0.7107947188497588
+Closed Pattern1:56 51 61 12  #GrowthRate:  1.399558875226659  Support for class0: 1.399558875226659  Support for class1:  0.7145108488830452
+Closed Pattern1:56 61 12  #GrowthRate:  1.3926094594236416  Support for class0: 1.3926094594236416  Support for class1:  0.7180764091706439
+Closed Pattern1:61 12  #GrowthRate:  1.386000676857743  Support for class0: 1.386000676857743  Support for class1:  0.7215003691535992
+Closed Pattern1:51 66 12  #GrowthRate:  1.3797080818766496  Support for class0: 1.3797080818766496  Support for class1:  0.72479099973077
+Closed Pattern1:56 51 66 12  #GrowthRate:  1.3737095133124555  Support for class0: 1.3737095133124555  Support for class1:  0.7279559399633757
+Closed Pattern1:56 66 12  #GrowthRate:  1.3679848337131701  Support for class0: 1.3679848337131701  Support for class1:  0.7310022562791608
+Closed Pattern1:66 12  #GrowthRate:  1.3625157034963016  Support for class0: 1.3625157034963016  Support for class1:  0.7339364951419911
+Closed Pattern1:51 12  #GrowthRate:  1.3572853846874182  Support for class0: 1.3572853846874182  Support for class1:  0.7367647300131352
+#Objective Function:1.3476979196355212
+#Objective Function:1.3476979196355212
+#Objective Function:1.3476979196355212
+#Objective Function:1.3476979196355212
+#Objective Function:1.3476979196355212
+#Objective Function:1.3481230682192429
+#Objective Function:1.3481230682192429
+#Objective Function:1.3481230682192429
+#Objective Function:1.3481230682192429

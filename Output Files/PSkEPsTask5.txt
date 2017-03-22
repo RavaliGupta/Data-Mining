@@ -1,0 +1,199 @@
+#Objective Function:0.084434438271345
+Closed Pattern1:61 30  #GrowthRate:  0.0567760474601409
+Closed Pattern1:66 30  #GrowthRate:  0.0567760474601409
+Closed Pattern1:56 66 30  #GrowthRate:  0.0567760474601409
+Closed Pattern1:51 30  #GrowthRate:  0.0567760474601409
+Closed Pattern1:56 51 30  #GrowthRate:  0.0567760474601409
+Closed Pattern1:56 30  #GrowthRate:  0.0567760474601409
+Closed Pattern1:30  #GrowthRate:  0.0567760474601409
+Closed Pattern1:51 66 61 71 100 95 80  #GrowthRate:  0.041796891278076426
+Closed Pattern1:56 51 66 61 71 100 95 80  #GrowthRate:  0.041796891278076426
+Closed Pattern1:56 66 61 71 100 95 80  #GrowthRate:  0.041796891278076426
+Closed Pattern1:66 61 71 100 95 80  #GrowthRate:  0.041796891278076426
+Closed Pattern1:51 66 61 86  #GrowthRate:  0.05822962169290365
+Closed Pattern1:56 51 66 61 86  #GrowthRate:  0.05822962169290365
+Closed Pattern1:56 66 61 86  #GrowthRate:  0.05822962169290365
+Closed Pattern1:66 61 86  #GrowthRate:  0.05822962169290365
+Closed Pattern1:51 61 86  #GrowthRate:  0.05822962169290365
+Closed Pattern1:56 51 61 86  #GrowthRate:  0.05822962169290365
+Closed Pattern1:56 61 86  #GrowthRate:  0.05822962169290365
+Closed Pattern1:61 86  #GrowthRate:  0.05822962169290365
+Closed Pattern1:51 66 86  #GrowthRate:  0.05822962169290365
+Closed Pattern1:56 51 66 86  #GrowthRate:  0.05822962169290365
+Closed Pattern1:56 66 86  #GrowthRate:  0.05822962169290365
+Closed Pattern1:66 86  #GrowthRate:  0.05822962169290365
+Closed Pattern1:51 86  #GrowthRate:  0.05822962169290365
+Closed Pattern1:56 51 86  #GrowthRate:  0.05822962169290365
+Closed Pattern1:56 86  #GrowthRate:  0.05822962169290365
+Closed Pattern1:86  #GrowthRate:  0.05822962169290365
+Closed Pattern1:51 66 61 71 100 95  #GrowthRate:  0.06760472262655669
+Closed Pattern1:56 51 66 61 71 100 95  #GrowthRate:  0.06760472262655669
+Closed Pattern1:56 66 61 71 100 95  #GrowthRate:  0.06760472262655669
+Closed Pattern1:66 61 71 100 95  #GrowthRate:  0.06760472262655669
+Closed Pattern1:51 66 61 100 95  #GrowthRate:  0.06760472262655669
+Closed Pattern1:56 51 66 61 100 95  #GrowthRate:  0.06760472262655669
+Closed Pattern1:56 66 61 100 95  #GrowthRate:  0.06760472262655669
+Closed Pattern1:66 61 100 95  #GrowthRate:  0.06760472262655669
+Closed Pattern1:51 66 100 95  #GrowthRate:  0.06760472262655669
+Closed Pattern1:56 51 66 100 95  #GrowthRate:  0.06760472262655669
+Closed Pattern1:56 66 100 95  #GrowthRate:  0.06760472262655669
+Closed Pattern1:66 100 95  #GrowthRate:  0.06760472262655669
+Closed Pattern1:51 66 61 71 12  #GrowthRate:  0.06562901155327343
+Closed Pattern1:56 51 66 61 71 12  #GrowthRate:  0.06562901155327343
+Closed Pattern1:56 66 61 71 12  #GrowthRate:  0.06562901155327343
+Closed Pattern1:66 61 71 12  #GrowthRate:  0.06562901155327343
+Closed Pattern1:51 66 61 12  #GrowthRate:  0.06562901155327343
+Closed Pattern1:56 51 66 61 12  #GrowthRate:  0.06562901155327343
+Closed Pattern1:56 66 61 12  #GrowthRate:  0.06562901155327343
+Closed Pattern1:66 61 12  #GrowthRate:  0.06562901155327343
+Closed Pattern1:51 61 12  #GrowthRate:  0.06562901155327343
+Closed Pattern1:56 51 61 12  #GrowthRate:  0.06562901155327343
+Closed Pattern1:56 61 12  #GrowthRate:  0.06562901155327343
+Closed Pattern1:61 12  #GrowthRate:  0.06562901155327343
+Closed Pattern1:51 66 12  #GrowthRate:  0.06562901155327343
+Closed Pattern1:56 51 66 12  #GrowthRate:  0.06562901155327343
+Closed Pattern1:56 66 12  #GrowthRate:  0.06562901155327343
+Closed Pattern1:66 12  #GrowthRate:  0.06562901155327343
+Closed Pattern1:51 12  #GrowthRate:  0.06562901155327343
+Closed Pattern1:56 51 12  #GrowthRate:  0.06562901155327343
+Closed Pattern1:56 12  #GrowthRate:  0.06562901155327343
+Closed Pattern1:12  #GrowthRate:  0.06562901155327343
+Closed Pattern1:66 23 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:56 66 23 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:51 23 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:56 51 23 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:56 23 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:23 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:66 33 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:51 33 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:56 51 33 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:56 33 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:33 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:66 61 71 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:56 66 61 71 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:51 66 61 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:56 51 66 61 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:56 66 61 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:66 61 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:51 61 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:56 51 61 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:56 61 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:61 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:51 66 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:56 51 66 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:56 66 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:66 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:51 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:56 51 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:56 40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:40  #GrowthRate:  0.048730110159118725
+Closed Pattern1:51 66 61 71 33 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:56 51 66 61 71 33 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:56 66 61 71 33 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:66 61 71 33 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:51 66 61 33 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:56 51 66 61 33 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:56 66 61 33 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:66 61 33 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:51 66 33 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:56 51 66 33 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:56 66 33 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:66 33 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:51 33 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:56 51 33 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:56 33 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:33 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:51 66 61 71 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:56 51 66 61 71 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:56 66 61 71 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:66 61 71 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:51 66 61 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:56 51 66 61 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:56 66 61 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:66 61 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:51 66 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:56 51 66 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:56 66 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:66 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:51 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:56 51 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:56 100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:100  #GrowthRate:  0.04463705308775731
+Closed Pattern1:51 66 61 71 33 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:56 51 66 61 71 33 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:56 66 61 71 33 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:66 61 71 33 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:51 66 61 33 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:56 51 66 61 33 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:56 66 61 33 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:66 61 33 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:51 61 33 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:56 51 61 33 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:56 61 33 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:61 33 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:51 66 33 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:56 51 66 33 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:56 66 33 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:66 33 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:51 33 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:56 51 33 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:56 33 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:33 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:51 66 61 71 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:56 51 66 61 71 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:56 66 61 71 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:66 61 71 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:51 66 61 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:56 51 66 61 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:56 66 61 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:66 61 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:51 61 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:56 51 61 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:56 61 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:61 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:51 66 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:56 51 66 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:56 66 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:66 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:51 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:56 51 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:56 23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:23  #GrowthRate:  0.11866331164845956
+Closed Pattern1:51 66 61 71 33  #GrowthRate:  0.13201767304860088
+Closed Pattern1:56 51 66 61 71 33  #GrowthRate:  0.13201767304860088
+Closed Pattern1:56 66 61 71 33  #GrowthRate:  0.13201767304860088
+Closed Pattern1:66 61 71 33  #GrowthRate:  0.13201767304860088
+Closed Pattern1:51 66 61 33  #GrowthRate:  0.13201767304860088
+Closed Pattern1:56 51 66 61 33  #GrowthRate:  0.13201767304860088
+Closed Pattern1:56 66 61 33  #GrowthRate:  0.13201767304860088
+Closed Pattern1:66 61 33  #GrowthRate:  0.13201767304860088
+Closed Pattern1:51 61 33  #GrowthRate:  0.13201767304860088
+Closed Pattern1:56 51 61 33  #GrowthRate:  0.13201767304860088
+Closed Pattern1:56 61 33  #GrowthRate:  0.13201767304860088
+Closed Pattern1:61 33  #GrowthRate:  0.13201767304860088
+Closed Pattern1:51 66 33  #GrowthRate:  0.13201767304860088
+Closed Pattern1:56 51 66 33  #GrowthRate:  0.13201767304860088
+Closed Pattern1:56 66 33  #GrowthRate:  0.13201767304860088
+Closed Pattern1:66 33  #GrowthRate:  0.13201767304860088
+Closed Pattern1:51 33  #GrowthRate:  0.13201767304860088
+Closed Pattern1:56 51 33  #GrowthRate:  0.13201767304860088
+Closed Pattern1:56 33  #GrowthRate:  0.13201767304860088
+Closed Pattern1:33  #GrowthRate:  0.13201767304860088
+Closed Pattern1:51 66 61 71  #GrowthRate:  0.11790343896746619
+Closed Pattern1:56 51 66 61 71  #GrowthRate:  0.11790343896746619
+Closed Pattern1:56 66 61 71  #GrowthRate:  0.11790343896746619
+Closed Pattern1:66 61 71  #GrowthRate:  0.11790343896746619
+Closed Pattern1:51 66 61  #GrowthRate:  0.1654777808585184
+Closed Pattern1:56 51 66 61  #GrowthRate:  0.1654777808585184
+Closed Pattern1:56 66 61  #GrowthRate:  0.1654777808585184
+Closed Pattern1:66 61  #GrowthRate:  0.1654777808585184
+Closed Pattern1:51 61  #GrowthRate:  0.1654777808585184
+Closed Pattern1:56 51 61  #GrowthRate:  0.1654777808585184
+Closed Pattern1:56 61  #GrowthRate:  0.1654777808585184
+Closed Pattern1:61  #GrowthRate:  0.1654777808585184
+Closed Pattern1:51 66  #GrowthRate:  0.1666334363473233
+Closed Pattern1:56 51 66  #GrowthRate:  0.1666334363473233
+Closed Pattern1:56 66  #GrowthRate:  0.1666334363473233
+Closed Pattern1:66  #GrowthRate:  0.1666334363473233
+Closed Pattern1:51  #GrowthRate:  0.16459256309423068
+Closed Pattern1:56 51  #GrowthRate:  0.16459256309423068

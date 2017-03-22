@@ -1,0 +1,46 @@
+
+Linear Regression Model
+
+Attribute20 =
+
+     -0.0598 * Attribute2 +
+     -0.701  * Attribute5 +
+     -0.5982 * Attribute6 +
+     -1.4501 * Attribute8 +
+     -1.1306 * Attribute9 +
+      0.1804 * Attribute10 +
+     -0.0011 * Attribute11 +
+      0.3525 * Attribute12 +
+      1.7698 * Attribute13 +
+     -5.6672 * Attribute14 +
+      2.3879 * Attribute15 +
+      4.316  * Attribute16 +
+    -41.3482 * Attribute17 +
+     -3.2042 * Attribute18 +
+     47.1571 * Attribute19 +
+   8743.2017
+
+Regression Analysis:
+
+Variable        Coefficient     SE of Coef        t-Stat
+Attribute2         -0.0598         0.0265        -2.2537
+Attribute5         -0.701          0.156         -4.4946
+Attribute6         -0.5982         0.1135        -5.2717
+Attribute8         -1.4501         0.2141        -6.7732
+Attribute9         -1.1306         0.0354       -31.9165
+Attribute10         0.1804         0.0437         4.1254
+Attribute11        -0.0011         0.0002        -4.3957
+Attribute12         0.3525         0.0226        15.5731
+Attribute13         1.7698         0.465          3.8061
+Attribute14        -5.6672         0.2993       -18.9352
+Attribute15         2.3879         0.2019        11.8273
+Attribute16         4.316          0.2661        16.2204
+Attribute17       -41.3482         0.2521      -164.0393
+Attribute18        -3.2042         0.016       -199.9852
+Attribute19        47.1571         0.2217       212.7244
+const            8743.2017        24.0412       363.6756
+
+Degrees of freedom = 41172
+R^2 value = 0.97
+Adjusted R^2 = 0.97001
+F-statistic = 88806.1604
